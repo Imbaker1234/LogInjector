@@ -1,0 +1,7 @@
+C:\Users\Imbaker1234\source\repos\LogInjector\bin\Debug\LogInjector.exe.config
+C:\Users\Imbaker1234\source\repos\LogInjector\bin\Debug\LogInjector.exe
+C:\Users\Imbaker1234\source\repos\LogInjector\bin\Debug\LogInjector.pdb
+C:\Users\Imbaker1234\source\repos\LogInjector\obj\Debug\LogInjector.csprojAssemblyReference.cache
+C:\Users\Imbaker1234\source\repos\LogInjector\obj\Debug\LogInjector.csproj.CoreCompileInputs.cache
+C:\Users\Imbaker1234\source\repos\LogInjector\obj\Debug\LogInjector.exe
+C:\Users\Imbaker1234\source\repos\LogInjector\obj\Debug\LogInjector.pdb
